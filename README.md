@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automate the things.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me 
+- 
 
 <!---
 babasahebkolhe1/babasahebkolhe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
